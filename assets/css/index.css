@@ -1,3 +1,13 @@
 .footer p {  
-    margin-bottom: 0; 
+    margin-bottom: auto; 
  }
+
+ .discordbutton {
+    background-color: #7289DA; 
+    color: white; 
+  }
+  
+  .discordbutton:hover {
+    background-color: #6070b1;
+    color: white;
+  }
