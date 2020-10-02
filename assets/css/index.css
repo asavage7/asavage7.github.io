@@ -12,7 +12,7 @@
     color: white;
   }
 
-  @font-face {
+  .body {
     font-family: "Noto Sans";
     src: url("/assets/files/Notosans.ttf");
     }
