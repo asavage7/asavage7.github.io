@@ -11,3 +11,8 @@
     background-color: #6070b1;
     color: white;
   }
+
+  @font-face {
+    font-family: "Noto Sans";
+    src: url("/assets/files/Notosans.ttf");
+    }
