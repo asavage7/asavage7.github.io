@@ -1,4 +1,10 @@
-.footer p {  
+body {
+  font-family: "Noto Sans";
+  src: url("/assets/files/Notosans.ttf");
+  background-color:#121212;
+  }
+
+footer p {  
     margin-bottom: auto; 
  }
 
@@ -12,7 +18,3 @@
     color: white;
   }
 
-  .body {
-    font-family: "Noto Sans";
-    src: url("/assets/files/Notosans.ttf");
-    }
