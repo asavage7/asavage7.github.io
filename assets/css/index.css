@@ -18,3 +18,12 @@ footer p {
     color: white;
   }
 
+  .redditbutton {
+    background-color: #ff4500;
+    color:white;
+  }
+
+  .redditbutton:hover {
+    background-color: #b93100;
+    color:white;
+  }
