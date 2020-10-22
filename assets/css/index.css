@@ -39,3 +39,21 @@ footer p {
   text-align:center;
   background: white; 
 }
+
+hr {
+  border-color:white;
+}
+
+.scroll {
+  overflow-y: auto;
+}
+
+.infocard{
+  width:50%
+}
+
+@media (max-width: 1024px) {
+  .infocard {
+    width: 10%
+  }
+}
