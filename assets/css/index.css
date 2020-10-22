@@ -25,3 +25,17 @@ footer p {
     background-color: #b93100;
     color:white;
   }
+  .frost {
+    background-color: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: .5rem;
+}
+
+.round-button-circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align:center;
+  background: white; 
+}
