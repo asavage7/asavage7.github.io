@@ -44,6 +44,16 @@ hr {
   border-color:white;
 }
 
+.header {
+  background-image:url(/assets/images/home.svg); 
+  color:white;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  padding:5%;
+  margin-bottom:15px;
+}
+
 .scroll {
   overflow-y: auto;
 }
@@ -56,4 +66,12 @@ hr {
   .infocard {
     width: 10%
   }
+}
+
+.padded{
+  padding: 5px;
+}
+
+.margins{
+  margin:2px;
 }
