@@ -54,12 +54,24 @@ hr {
   margin-bottom:15px;
 }
 
+.footer {
+  text-align:center; 
+  background-color:#343a40; 
+  color:white; 
+  margin-top:2%;
+}
+
 .scroll {
   overflow-y: auto;
 }
 
 .infocard{
-  width:50%
+  width:50%;
+}
+
+.infoimage {
+  overflow:hidden;
+  border-top-left-radius:3px;
 }
 
 @media (max-width: 1024px) {
